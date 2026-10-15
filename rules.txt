@@ -1,0 +1,5 @@
+# Policy Proxy domain rules
+
+allow example.com
+allow *.wikipedia.org
+deny *.badsite.com
