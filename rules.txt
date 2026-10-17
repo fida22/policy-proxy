@@ -3,3 +3,4 @@
 allow example.com
 allow *.wikipedia.org
 deny *.badsite.com
+allow 127.0.0.1
